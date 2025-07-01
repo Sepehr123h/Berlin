@@ -1,0 +1,14 @@
+{
+  "name": "Berlin App",
+  "short_name": "Berlin",
+  "start_url": "berlin.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
